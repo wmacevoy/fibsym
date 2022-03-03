@@ -1,8 +1,10 @@
 # fibsym
 
-For simulation of n=5 double recursion
+For simulation of n=5 / stats of double recursion
 
 ```sh
 make all
-./fibsym 5
+n=5
+./fib $n
+./fibsym $n
 
